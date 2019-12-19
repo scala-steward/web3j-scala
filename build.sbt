@@ -37,7 +37,7 @@ libraryDependencies ++= Seq(
 //  "org.web3j"              %  "quorum"                  % "0.7.0"      withSources(), // integration with JP Morgan's Quorum
   "org.web3j"              %  "rlp"                     % web3jVersion withSources(), // Recursive Length Prefix (RLP) encoders
   "org.web3j"              %  "utils"                   % web3jVersion withSources(), // Minimal set of utility classes
-  "org.web3j"              %  "web3j-maven-plugin"      % "0.3.5"      withSources(), // Create Java classes from solidity contract files
+  "org.web3j"              %  "web3j-maven-plugin"      % "0.3.7"      withSources(), // Create Java classes from solidity contract files
   //
   "org.scala-lang.modules" %% "scala-java8-compat"      % "0.9.0",
   "ch.qos.logback"         %  "logback-classic"         % "1.2.3",
